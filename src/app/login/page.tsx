@@ -3,7 +3,7 @@ import { LoginForm } from "./login-form";
 import { Package2 } from "lucide-react";
 
 export const metadata = {
-  title: "Sign in — John Delivery Admin",
+  title: "Sign in — Delivery Admin",
 };
 
 export default function LoginPage() {
@@ -26,7 +26,7 @@ export default function LoginPage() {
               <Package2 className="h-7 w-7 text-white" />
             </div>
             <h1 className="text-3xl font-bold tracking-tight text-gradient">
-              John Delivery
+              Delivery
             </h1>
             <p className="mt-1 text-sm text-[var(--foreground-muted)]">
               Operations control center

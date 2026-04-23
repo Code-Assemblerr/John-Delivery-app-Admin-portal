@@ -65,7 +65,7 @@ export default async function SettingsPage() {
         </CardHeader>
         <CardContent className="space-y-2 text-sm text-[var(--foreground-muted)]">
           <p>
-            John Delivery Admin Portal — operations control center for admins
+            Delivery Admin Portal — operations control center for admins
             and vendors.
           </p>
           <p>
