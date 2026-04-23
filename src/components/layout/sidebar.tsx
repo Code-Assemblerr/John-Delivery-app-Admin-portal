@@ -74,7 +74,7 @@ export function Sidebar({ portal, portalLabel, portalColor }: SidebarProps) {
               )}
             >
               <span className="truncate text-sm font-semibold text-[var(--foreground)]">
-                Delivery
+                Casto Concepts
               </span>
               <span className={cn("text-xs truncate", portalColor)}>
                 {portalLabel}

@@ -17,9 +17,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Delivery — Admin Portal",
+  title: "Casto Concepts — Admin Portal",
   description:
-    "Operations control center for Delivery. Manage work orders, customers, vendors, invoices, and more.",
+    "Operations control center for Casto Concepts. Manage work orders, customers, vendors, invoices, and more.",
   icons: {
     icon: "/favicon.ico",
   },
